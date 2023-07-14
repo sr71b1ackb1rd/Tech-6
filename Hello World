@@ -1,1 +1,9 @@
-print('Hello world! Will you be my friend??? This is Tony and Ruman.')
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- head definitions go here -->
+    </head>
+    <body>
+        <!-- the content goes here -->
+    </body>
+</html>
